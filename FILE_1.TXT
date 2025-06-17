@@ -1,7 +1,7 @@
 # FILE1 FR TESTING
 
 
-MAKE SOME EDITS...........
+MAKE SOME EDITS......
 
 
 
