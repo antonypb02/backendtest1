@@ -2,6 +2,11 @@
 
 
 MAKE SOME EDITS......
+print("Quote of the day: 'The only way to do great work is to love what you do.' - Steve Jobs")
+print("Quote of the day: 'Success is not the key to happiness. Happiness is the key to success.' - Albert Schweitzer")
+print("Quote of the day: 'Keep your face always toward the sunshine—and shadows will fall behind you.' - Walt Whitman")
+print("Quote of the day: 'The best way to predict the future is to create it.' - Peter Drucker")
+print("Quote of the day: 'Do not wait to strike till the iron is hot; but make it hot by striking.' - William Butler Yeats")
 
  to infinity." - Rumi
 "There is one way of breathing that is shameful and constricted. Then, there's another way: a breath of love that takes you all
