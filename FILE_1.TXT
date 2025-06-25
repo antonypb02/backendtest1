@@ -3,5 +3,5 @@
 
 MAKE SOME EDITS......
 print("Quote of the day: 'The only way to do great work is to love
-print("Quote of the daey to happiness. Happ
+print("Quote of the daey to hap
 FGDGDGDGD
