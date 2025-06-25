@@ -3,5 +3,5 @@
 
 MAKE SOME EDITS......
 print("Quote of the day: 'The only way to do great work is to love what you d
-print("Quote of the daey to happiness. Happiness is the key to success.' - Albert Schweitzer")
+print("Quote of the daey to happiness. Happiness is the key to sbert Schweitzer")
 print("Quote of th
