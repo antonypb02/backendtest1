@@ -3,6 +3,5 @@
 
 MAKE SOME EDITS......
 print("Quote of the day: 'The only way to do great work is to love
-print("Quote of the daey to happiness. Happiness is the key to sbert Schweitzer")
-pr
+print("Quote of the daey to happiness. Happiness is the key to sbert Schweitze
 FGDGDGDGDFGDF
